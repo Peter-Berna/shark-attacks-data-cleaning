@@ -34,9 +34,10 @@ The 'Global Shark Attacks' dataset (DataFrame below) was retrieved from Kaggle a
 - Finally, some conclusions and recommendations
 
 ## How to run the various files
+    - Find the exploring data analysis in the main.ipynb Jupyter Notebook file
     - Import dataset from 'Input' directory
     - import functions from claning.py and plot.py
-    - You can view the plots as a file in the 'Images' directory 
+    - You can view the plots as files in the 'Images' directory 
 
 ## Links
 [Repository](https://github.com/Peter-Berna/shark-attacks-data-cleaning)  
